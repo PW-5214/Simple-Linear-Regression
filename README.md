@@ -76,11 +76,6 @@ Simple-Linear-Regression/
 
 ---
 
-## 📷 Sample Output
-
-*(Include screenshots or graphs from your notebook here if available)*
-
----
 
 ## 📦 `requirements.txt`
 
