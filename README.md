@@ -6,8 +6,7 @@
 ---
 
 ## 👨‍💻 Developed by
-**[Prathmesh Wavhal](https://github.com/your-username)**  
-(*Replace `your-username` with your actual GitHub username*)
+**[Prathmesh Wavhal](https://github.com/pw-5214)**  
 
 ---
 
